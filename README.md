@@ -20,4 +20,5 @@ Only 1549 employees fit within the criteria of fulfilling the role of a mentor.
 
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 * Unfortunately there are only 1,549 people who fit the mentorship eligibility, it is recommended to extend the birth years of applicants you are picking for this mentorship role. 
+
 ![Query](Resources/Deliverable3_question.png)
